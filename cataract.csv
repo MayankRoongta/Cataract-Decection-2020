@@ -1,0 +1,32 @@
+Age,Education,Occupation,Marital Status,Ethnicity,Religion,Weight(kg),Height(metres),BMI_Class,Use_Lenses,Family_History,Smoking,Smoke_Frequency,High_Cholesterol,Diabetes,Hypertension,Hypertensive,Corticosteroid_medications,Past_Eye_surgery,Hormone_Replacement,Have_Myopia,Myopia_intensity,Alcohol,Alcohol_frequency,Risk_of_cataracts
+25,University,Military,Married,Ibo,Islam,78,1.7,Overweight,No,No,Yes,Pack/week,No,Yes,No,No,No,Yes,No,No,Nil,Yes,Weekly,Low
+27,University,Civil servant,Married,Yoruba,Christianity,70,1.55,Overweight,No,No,Yes,Pack/month,Yes,Yes,No,No,No,Yes,No,Yes,High,Yes,Weekly,Moderate
+43,Polytechnic,Self,Married,Ibo,Christianity,85,1.53,Obese,Yes,No,Yes,Pack/month,No,Yes,No,No,No,Yes,No,No,Nil,Yes,Weekly,Low
+31,University,Student,Single,Ibo,Christianity,84,1.65,Obese,Yes,No,Yes,Pack/week,No,Yes,No,Yes,No,No,No,No,Nil,Yes,Weekly,Moderate
+8,Primary,Student,Single,Yoruba,Christianity,51,1.22,Obese,Yes,First generation,No,Nil,No,No,No,No,No,No,No,Yes,High,No,Nil,Low
+40,Secondary,Trader,Married,Yoruba,Christianity,86,1.52,Obese,Yes,First generation,No,Nil,No,Yes,No,Yes,Yes,No,No,No,Nil,No,Nil,Low
+12,Secondary,Trader,Single,Yoruba,Christianity,56,1.35,Obese,Yes,First generation,No,Nil,No,No,No,No,No,No,No,No,Nil,No,Nil,No
+20,Polytechnic,Teacher,Single,Yoruba,Islam,76,1.55,Obese,No,No,Yes,Pack/month,Yes,Yes,No,No,No,Yes,No,Yes,High,Yes,Weekly,Moderate
+30,University,Student,Single,Yoruba,Islam,80,1.65,Overweight,Yes,No,Yes,Pack/week,No,Yes,No,No,No,No,No,Yes,High,Yes,Daily,Moderate
+43,University,Self,Married,Yoruba,Christianity,75,1.42,Obese,No,No,Yes,Pack/day,Yes,No,No,Yes,No,Yes,Yes,Yes,High,Yes,Weekly,Moderate
+50,University,Artisan,Married,Yoruba,Christianity,65,1.42,Obese,No,No,No,Nil,No,Yes,No,Yes,No,Yes,No,No,Nil,Yes,Daily,Low
+29,Polytechnic,Trader,Single,Ibo,Islam,88,1.65,Obese,No,No,Yes,Pack/week,No,Yes,No,No,No,No,No,No,Nil,Yes,Weekly,Low
+43,University,Trader,Married,Yoruba,Islam,80,1.6,Obese,No,No,Yes,Pack/month,No,Yes,No,No,No,No,No,No,Nil,Yes,Weekly,Low
+48,Secondary,Trader,Married,Ibo,Christianity,81,1.67,Overweight,No,No,No,Nil,Yes,No,No,Yes,No,Yes,No,Yes,High,Yes,Weekly,Low
+60,Secondary,Trader,Single,Yoruba,Christianity,60,1.52,Overweight,No,No,No,Nil,No,Yes,No,Yes,No,No,No,No,Nil,Yes,Weekly,No
+33,Secondary,Trader,Married,Yoruba,Islam,60,1.42,Overweight,No,No,Yes,Pack/week,No,Yes,No,No,No,No,No,Yes,Low,Yes,Weekly,Low
+30,Polytechnic,Trader,Married,Yoruba,Christianity,75,1.68,Overweight,No,No,No,Nil,No,No,No,Yes,No,No,No,Yes,High,Yes,Weekly,Low
+6,Primary,Student,Single,Yoruba,Christianity,50,1.4,Overweight,Yes,First generation,No,Nil,No,No,No,No,No,No,No,Yes,Moderate,No,Nil,Low
+12,Secondary,Student,Single,Yoruba,Islam,56,1.57,Normal,Yes,First generation,No,Nil,No,No,No,No,No,Yes,No,Yes,High,No,Nil,Low
+23,Polytechnic,Trader,Single,Yoruba,Islam,70,1.67,Overweight,No,No,Yes,Pack/week,No,Yes,No,No,No,No,No,Yes,Moderate,Yes,Weekly,Low
+25,Polytechnic,Teacher,Single,Yoruba,Christianity,80,1.6,Obese,No,No,Yes,Pack/month,No,No,No,No,No,No,No,Yes,Moderate,Yes,Monthly,Low
+19,University,Trader,Single,Ibo,Christianity,88,1.65,Obese,No,First generation,No,Nil,No,No,No,No,No,No,No,No,Nil,Yes,Monthly,No
+35,Secondary,Trader,Married,Yoruba,Islam,70,1.6,Normal,No,No,No,Nil,Yes,Yes,No,No,No,Yes,No,Yes,High,No,Nil,Moderate
+29,University,Trader,Single,Yoruba,Islam,75,1.42,Obese,No,No,No,Nil,No,No,No,No,Yes,No,No,Yes,Moderate,No,Nil,Low
+21,University,Student,Married,Yoruba,Christianity,60,1.52,Overweight,No,No,No,Nil,No,No,No,Yes,Yes,No,No,No,Nil,Yes,Monthly,No
+35,University,Trader,Single,Ibo,Christianity,80,1.6,Obese,No,No,Yes,Pack/month,Yes,Yes,No,No,No,Yes,No,Yes,Moderate,No,Nil,No
+38,Secondary,Trader,Married,Yoruba,Christianity,85,1.53,Obese,No,No,Yes,Pack/week,Yes,Yes,Yes,No,No,Yes,No,Yes,High,Yes,Monthly,Low
+44,University,Teacher,Married,Yoruba,Christianity,75,1.68,Overweight,No,No,No,Nil,No,No,No,No,No,No,No,No,Nil,No,Nil,No
+23,Polytechnic,Trader,Married,Ibo,Christianity,75,1.68,Overweight,No,No,No,Nil,Yes,No,No,Yes,No,Yes,No,No,Nil,Yes,Monthly,No
+25,University,Student,Married,Ibo,Islam,68,1.65,Normal,No,No,Yes,Pack/week,No,No,No,No,No,No,No,Yes,Moderate,Yes,Weekly,Low
+20,Secondary,Student,Single,Yoruba,Islam,56,1.35,Obese,No,No,No,Nil,No,No,No,No,No,No,No,No,Nil,No,Nil,No
